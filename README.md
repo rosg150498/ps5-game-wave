@@ -15,3 +15,5 @@ PS5 GameWave is designed to cater to a diverse and dynamic group of individuals 
 Our target audience also includes collectors and hobbyists who seek unique and limited edition PS5 items. These individuals appreciate the value of exclusive collectibles and are often looking for rare finds to add to their collections. Moreover, we aim to attract parents and guardians who are purchasing games and accessories for their children, ensuring that they have access to a variety of age-appropriate options.
 
 Beyond individual consumers, PS5 GameWave seeks to engage with gaming communities and influencers. Our platform is designed to be inclusive and welcoming to all, ensuring that everyone, from the most dedicated gamers to casual players and collectors, finds something to love at PS5 GameWave.
+
+## User Goals
