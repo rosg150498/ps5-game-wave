@@ -9,3 +9,9 @@ At PS5 GameWave, we prioritize an enhanced user experience by implementing robus
 We are also dedicated to ensuring that our website is accessible and responsive, providing an optimal experience across various devices and catering to users with different needs. By upholding the highest standards of security and privacy, we aim to build trust with our customers, ensuring that their data and transactions are always protected.
 
 ## Target Audience
+
+PS5 GameWave is designed to cater to a diverse and dynamic group of individuals who share a passion for the PlayStation 5. Our primary audience includes avid gamers who are enthusiastic about staying up-to-date with the latest PS5 releases, accessories, and collectibles. We aim to serve both hardcore gamers and casual players alike, providing a one-stop shop for all their PS5 needs. Additionally, our platform appeals to gift buyers, including friends and family members searching for the perfect gift for PS5 enthusiasts, from the latest games to exclusive merchandise.
+
+Our target audience also includes collectors and hobbyists who seek unique and limited edition PS5 items. These individuals appreciate the value of exclusive collectibles and are often looking for rare finds to add to their collections. Moreover, we aim to attract parents and guardians who are purchasing games and accessories for their children, ensuring that they have access to a variety of age-appropriate options.
+
+Beyond individual consumers, PS5 GameWave seeks to engage with gaming communities and influencers. Our platform is designed to be inclusive and welcoming to all, ensuring that everyone, from the most dedicated gamers to casual players and collectors, finds something to love at PS5 GameWave.
