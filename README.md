@@ -70,3 +70,5 @@ Beyond individual consumers, PS5 GameWave seeks to engage with gaming communitie
 
 * Provide an accessible and inclusive shopping experience for all users, including features like clear navigation, alt text for images, and a secure payment system.
 
+## Requirements
+
