@@ -17,3 +17,21 @@ Our target audience also includes collectors and hobbyists who seek unique and l
 Beyond individual consumers, PS5 GameWave seeks to engage with gaming communities and influencers. Our platform is designed to be inclusive and welcoming to all, ensuring that everyone, from the most dedicated gamers to casual players and collectors, finds something to love at PS5 GameWave.
 
 ## User Goals
+
+1. Able to find sections designed with ample white space that enhance readability and minimize unnecessary content.
+
+2. Able to easily identify accessibility features, including alt text, that are implemented on the platform.
+
+3. Able to seamlessly explore and find PS5-related products, such as games, accessories, and merchandise, through a visually appealing and consistent design that enhances your overall browsing experience.
+
+4. Able to purchase products smoothly and securely with a streamlined checkout process.
+
+5. Able to add, view, and manage items in the shopping cart and wishlist, with the cart being accessible and easy to manage, and clear indications of total costs provided.
+
+6. Able to filter and sort PS5 products by type, price, popularity, and release date, ensuring you can easily find games, accessories, or merchandise that meet your specific needs and preferences.
+
+7. Able to stay informed about new product releases, special offers, and discounts, which are presented in a visually engaging format using distinct colors and fonts to highlight key information.
+
+8. Able to leave comments and reviews on PS5 games, accessories, and merchandise, allowing you to share your experiences and opinions.
+
+
