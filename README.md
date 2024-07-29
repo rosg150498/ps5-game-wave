@@ -36,4 +36,23 @@ Beyond individual consumers, PS5 GameWave seeks to engage with gaming communitie
 
 ## User Stories
 
+1. As a user, I want clear and spacious layout sections, so I can read and navigate the content easily without distraction from unnecessary elements.
+
+2. As a user, I want images to have alt text, so I can understand the content even if images don't load or I'm using a screen reader.
+
+3. As a user, I want to browse PS5-related products, including games, accessories, and merchandise, through a visually appealing and consistent design for an enjoyable shopping experience.
+
+4. As a user, I want to easily register for an account, so I can save my preferences and access exclusive features like wishlists and purchase history.
+
+5. As a registered user, I want a straightforward login process, so I can quickly access my account and continue shopping without hassle.
+
+6. As a user, I want a smooth and secure checkout process, so I can purchase products confidently and without hassle.
+
+7. As a user, I want to easily add, view, and manage items in my shopping cart and wishlist, with clear cost details, to keep track of the products I'm interested in.
+
+8. As a user, I want to filter and sort PS5 products by type, price, popularity, and release date, to quickly find the items that suit my needs and preferences.
+
+9. As a user, I want to receive information about new releases, special offers, and discounts in an engaging format, so I can stay updated on the latest deals and promotions.
+
+10. As a user, I want to post comments and reviews on PS5 games, accessories, and merchandise, to share my experiences and help others make informed purchasing decisions.
 
