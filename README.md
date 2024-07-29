@@ -95,3 +95,33 @@ Beyond individual consumers, PS5 GameWave seeks to engage with gaming communitie
 * Comprehensive filtering and sorting options for products by type, price, popularity, and release date.
 
 ## Expectations
+
+* I expect an intuitive navigation system that allows me to easily find PS5 games, accessories, and merchandise.
+  
+* I expect a seamless shopping experience, where I can browse, add items to my cart, and checkout with ease.
+
+* I expect to be able to easily add items to a wishlist, view my wishlist, and manage it with the ability to move items to my cart or remove them as needed.
+  
+* I expect the website to be fully responsive, providing a consistent and optimal experience across all devices, including mobile devices, tablets, and desktops.
+  
+* I expect transparent and detailed product information, including accurate descriptions, high-quality images, and honest user reviews.
+  
+* I expect the website to load quickly, without long wait times, ensuring a smooth browsing experience.
+  
+* I expect secure a payment process that protects my personal and financial information during transactions.
+  
+* I expect that my data will be kept secure and confidential, in compliance with data protection regulations.
+  
+* I expect a wide range of PS5 products, including the latest games, accessories, and merchandise, to be available for purchase.
+  
+* I expect regular updates on new products, blog posts, and user-generated content like reviews and ratings.
+  
+* I expect engaging marketing and promotional campaigns that offer attractive deals and discounts.
+  
+* I expect efficient and responsive customer support to help me resolve any issues or answer any questions promptly.
+  
+* I expect the platform to foster a sense of community, allowing me to interact with other users through reviews, ratings, and social media.
+  
+* I expect the website to meet accessibility standards, making it usable for all, including those with disabilities.
+  
+* I expect an inclusive design with features like alt text and support for screen readers, ensuring everyone can use the site comfortably.
