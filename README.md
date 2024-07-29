@@ -125,3 +125,5 @@ Beyond individual consumers, PS5 GameWave seeks to engage with gaming communitie
 * I expect the website to meet accessibility standards, making it usable for all, including those with disabilities.
   
 * I expect an inclusive design with features like alt text and support for screen readers, ensuring everyone can use the site comfortably.
+
+## Website Design Choices 
