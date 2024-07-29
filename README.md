@@ -56,3 +56,5 @@ Beyond individual consumers, PS5 GameWave seeks to engage with gaming communitie
 
 10. As a user, I want to post comments and reviews on PS5 games, accessories, and merchandise, to share my experiences and help others make informed purchasing decisions.
 
+## Site Owner Goals
+
