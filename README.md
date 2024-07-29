@@ -34,4 +34,6 @@ Beyond individual consumers, PS5 GameWave seeks to engage with gaming communitie
 
 8. Able to leave comments and reviews on PS5 games, accessories, and merchandise, allowing you to share your experiences and opinions.
 
+## User Stories
+
 
