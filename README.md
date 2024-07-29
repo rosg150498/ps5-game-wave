@@ -72,3 +72,25 @@ Beyond individual consumers, PS5 GameWave seeks to engage with gaming communitie
 
 ## Requirements
 
+* User-friendly interface with intuitive navigation menus and a powerful search function for finding PS5 games, accessories, and merchandise quickly.
+
+* Fully responsive and accessible across all devices, including desktops, tablets, and mobile devices.
+
+* Secure and straightforward checkout system.
+
+* Features for adding items to a wishlist, managing the shopping cart, viewing total costs, and updating item quantities.
+
+* Option for users to leave reviews and rate products, aiding other shoppers and improving transparency.
+
+* Accessibility features like alt text for images and screen reader compatibility.
+
+* Account creation and management capabilities.
+
+* Notifications for new product releases, special offers, and discounts to keep users informed.
+
+* Detailed product pages with descriptions, high-quality images, specifications, and user reviews.
+
+* Options for users to share products, reviews, and experiences on social media platforms.
+
+* Comprehensive filtering and sorting options for products by type, price, popularity, and release date.
+
