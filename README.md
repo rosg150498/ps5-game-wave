@@ -127,3 +127,9 @@ Beyond individual consumers, PS5 GameWave seeks to engage with gaming communitie
 * I expect an inclusive design with features like alt text and support for screen readers, ensuring everyone can use the site comfortably.
 
 ## Website Design Choices 
+
+### Colours
+
+### Fonts
+
+### Icons
