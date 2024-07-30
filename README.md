@@ -146,3 +146,5 @@ I have chosen to use the Lato typeface exclusively for headings on the PS5 GameW
 
 
 ### Icons
+
+For the PS5 GameWave platform, I will incorporate icons sourced from the Flat Icon website (https://www.flaticon.com/). The use of these icons will significantly enhance both the visual appeal and usability of the platform. Icons play a crucial role in guiding users through the website by providing clear and intuitive visual cues. This aids in quickly identifying various sections and features, such as the shopping cart, wishlist, product categories, and user accounts. Additionally, these icons contribute to a cohesive and engaging design, reinforcing the platform's branding and user experience. By carefully selecting and positioning these icons, I aim to create a seamless and enjoyable browsing experience, making it easier for users to navigate the extensive range of PS5 games, accessories, and merchandise available on PS5 GameWave.
