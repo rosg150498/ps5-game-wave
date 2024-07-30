@@ -130,6 +130,12 @@ Beyond individual consumers, PS5 GameWave seeks to engage with gaming communitie
 
 ### Colours
 
+For the PS5 GameWave platform, the choice of colors plays a crucial role in creating an engaging and visually appealing user experience. The primary colors selected include PlayStation Blue (#003087), White (#FFFFFF), and Black (#000000). PlayStation Blue, a shade synonymous with the PlayStation brand, is prominently used for headers, buttons, and important highlights, reinforcing brand identity and consistency. The clean and minimalist white serves as the background color, providing a neutral canvas that allows content and images to stand out, while black is utilized for text, creating a high contrast with white to enhance readability and ensure that the content is easily legible.
+
+Complementing these primary colors are secondary shades like silver (#C0C0C0), light blue (#007ACC), and red (#FF0000). Silver is used for subtle accents, borders, or secondary buttons, adding a modern and tech-inspired feel to the platform. Light Blue, a vibrant and energetic colour, is ideal for hover effects, links, and highlights, providing a lively and interactive experience for users. Red, a bold and attention-grabbing color, is strategically used for calls to action such as "Buy Now" buttons or sale notifications, ensuring that key actions and promotions stand out.
+
+In addition to these, Gold (#FFD700) is chosen as an accent color for special promotions or premium products. This luxurious hue adds a sense of exclusivity and value, enhancing the perceived quality of premium offerings on the platform. Together, these colors create a cohesive and attractive visual identity for PS5 GameWave, enhancing user engagement and overall site aesthetics.
+
 ### Fonts
 
 ### Icons
